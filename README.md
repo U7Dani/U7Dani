@@ -1,3 +1,7 @@
+![SOC Analyst  Blue Team  Threat Detection   Incident Response  SIEM  IDSIPS  Cyber Threat Intelligence](https://github.com/user-attachments/assets/96b3abf3-ee89-488e-9729-4f9202779dbf)
+
+
+
 # 💫 About Me:
 🛰️ Actualmente trabajo en la mejora de la detección de amenazas y la respuesta ante incidentes mediante herramientas como Security Onion, Suricata, Zeek y ELK Stack, dentro de entornos SOC simulados.<br><br>🤝 Me interesa colaborar en proyectos open source de ciberseguridad defensiva (Blue Team), laboratorios SOC y contenidos educativos para la comunidad.<br><br>🙌 Busco apoyo e intercambio de conocimiento en el diseño de casos de uso para SIEM, técnicas avanzadas de threat hunting y aplicación de inteligencia artificial en detección de anomalías.<br><br>🌱 Actualmente estoy profundizando en análisis forense (Volatility, Autopsy), creación de reglas YARA, y defensa proactiva con honeypots y segmentación de red usando pfSense.<br><br>💬 Puedes preguntarme sobre flujos de trabajo en un SOC, análisis de logs, correlación de eventos, uso de MISP, y cómo montar tu propio laboratorio de ciberseguridad para entrenamiento técnico.<br><br>⚡ Dato curioso: disfruto revirtiendo ataques de phishing reales, capturando amenazas en honeypots y convirtiendo IoCs en contenido útil para detección y mitigación.<br>
 
