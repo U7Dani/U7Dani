@@ -1,4 +1,5 @@
-![SOC Analyst  Blue Team  Threat Detection   Incident Response  SIEM  IDSIPS  Cyber Threat Intelligence](https://github.com/user-attachments/assets/96b3abf3-ee89-488e-9729-4f9202779dbf)
+![SOC Analyst  Blue Team  Threat Detection   Incident Response  SIEM  IDSIPS  Cyber Threat Intelligence (1)](https://github.com/user-attachments/assets/4fa68f3a-e67e-4835-9c28-1a44bffe8fd6)
+
 
 
 
